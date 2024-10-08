@@ -1,0 +1,47 @@
+body{
+    background-image: url(laptop-5673901_1280.jpg);
+    text-align: center;
+}
+.h{
+    text-align: center;
+    color: azure;
+}
+.h1{
+    color: azure;
+    margin-right:380px;
+}
+.h2{
+    color: azure;
+    margin-right:150px;
+}
+.h3{
+    color: azure;
+    margin-right: 330px;
+}
+.in{
+ width: 500px;
+ height:30px;
+margin-left: 80px;
+}
+.in1{
+    width: 500px;
+    height:30px;
+   margin-left: 80px;
+   }
+   .a{
+
+margin-right:330px;
+ 
+   }
+.in3{
+
+width: 500px;
+height: 30px;
+margin-left: 70px;
+ background-color:black;
+ color: azure;
+}
+.a1{
+margin-right: 270px;
+
+}
