@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+<body>
+  <p id="p1">this is magical</p>
+  <button  id="btn1">click me</button>
+  <input type="text" id="fname">
+  <button id="btn2"> first name</button>
+  <script>
+$(document).ready(function(){
+$("#btn1").click(function(){
+alert($("#p1").text());
+});
+$("#btn2").click(function(){
+alert("hello"+$("#fname").val())
+
+
+});
+
+});
+
+
+
+
+  </script>
+</body>
+</html>
